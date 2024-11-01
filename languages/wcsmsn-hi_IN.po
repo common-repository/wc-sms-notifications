@@ -1,0 +1,328 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wcsmsn\n"
+"POT-Creation-Date: 2018-02-07 12:25+0530\n"
+"PO-Revision-Date: 2018-02-10 10:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: wcsmsn <support@cozyvision.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Hindi\n"
+"X-Poedit-Country: INDIA\n"
+
+msgid "WC SMS Notifications Username"
+msgstr "एसएमएस अलर्ट उपयोगकर्ता नाम"
+
+msgid "WC SMS Notifications Password"
+msgstr "एसएमएस अलर्ट पासवर्ड"
+
+msgid "WC SMS Notifications Sender Id"
+msgstr "एसएमएस अलर्ट प्रेषक आईडी"
+
+msgid "Logout"
+msgstr "लोग आउट"
+
+msgid "General Settings"
+msgstr "सामान्य सेटिंग्स"
+
+msgid "Customer Templates"
+msgstr "ग्राहक टेम्पलेट"
+
+msgid "Admin Templates"
+msgstr "व्यवस्थापक टेम्पलेट"
+
+msgid "EDD Cust. Templates"
+msgstr "ईडीडी ग्राहक टेम्पलेट्स"
+
+msgid "EDD Admin Templates"
+msgstr "ईडीडी व्यवस्थापक टेम्पलेट्स"
+
+msgid "Advanced Settings"
+msgstr "एडवांस सेटिंग"
+
+msgid "SMS Credits"
+msgstr "एसएमएस क्रेडिट"
+
+msgid "Support"
+msgstr "समर्थन"
+
+msgid "when Order is Pending"
+msgstr "जब ऑर्डर पेंडिग है"
+
+msgid "when Order is Processing"
+msgstr "जब ऑर्डर प्रोसेसिंग  है"
+
+msgid "when Order is On Hold"
+msgstr "जब ऑर्डर होल्ड हो"
+
+msgid "when Order is Completed"
+msgstr "जब ऑर्डर पूरा हो जाता है"
+
+msgid "when Order is Cancelled"
+msgstr "जब ऑर्डर रद्द हो जाता है"
+
+msgid "when Order is Refunded"
+msgstr "जब ऑर्डर वापस किया जाता है"
+
+msgid "when Order is Failed"
+msgstr "जब ऑर्डर विफल हो गया है"
+
+msgid "When a new note is added to order"
+msgstr "जब ऑर्डर में एक नया नोट जोड़ा जाता है"
+
+msgid "Select All OTP"
+msgstr "सभी ओटीपी का चयन करें"
+
+msgid "when Order is Abandoned"
+msgstr "जब आदेश परित्याग किया जाता है"
+
+msgid "when Order is Revoked"
+msgstr "जब ऑर्डर  रद्द किया जाता है"
+
+msgid "when Order is Complete"
+msgstr "जब ऑर्डर पूरा हो जाता है"
+
+msgid "Enable OTP for Selected Payment Gateways"
+msgstr "चयनित भुगतान द्वार के लिए ओटीपी सक्षम करें"
+
+msgid "Send Admin SMS To"
+msgstr "व्यवस्थापक एसएमएस को भेजें"
+
+msgid "OTP Settings"
+msgstr "ओटीपी सेटिंग्स"
+
+msgid "Miscellaneous"
+msgstr "कई तरह का"
+
+msgid "Enable ContactForm7"
+msgstr "ContactForm7 को सक्षम करें"
+
+msgid "Default Country"
+msgstr "डिफ़ॉल्ट देश"
+
+msgid "Alerts"
+msgstr "अलर्ट"
+
+msgid "Admin order sms notifications will be send in this number."
+msgstr "एडमिन ऑर्डर एसएमएस नोटिफिकेशन इस नंबर पर भेजे जाएंगे।"
+
+msgid "Verify OTP in Popup"
+msgstr "पॉपअप में OTP सत्यापित करें"
+
+msgid "Bypass admin OTP for Login"
+msgstr "प्रवेश के लिए व्यवस्थापक ओटीपी बायपास करें"
+
+msgid "Show Verify Button at Checkout"
+msgstr "चेकआउट में सत्यापन बटन दिखाएं"
+
+msgid "Verify only Guest Checkout"
+msgstr "केवल अतिथि चेकआउट सत्यापित करें"
+
+msgid "OTP Re-send Timer"
+msgstr "ओटीपी टाइमर को फिर से भेजें"
+
+msgid "OTP Verify Button Text"
+msgstr "ओटीपी सत्यापन बटन पाठ"
+
+msgid "Enable Login with OTP"
+msgstr "ओटीपी के साथ लॉगिन सक्षम करें"
+
+msgid "Allow multiple accounts with same mobile number"
+msgstr "एक ही मोबाइल नंबर के साथ कई खातों की अनुमति दें"
+
+msgid "ContactForm 7 Integration"
+msgstr "ContactForm 7 एकीकरण"
+
+msgid "send alerts to this email id"
+msgstr "इस ईमेल आईडी को अलर्ट भेजें"
+
+msgid "Low Balance Alert"
+msgstr "कम बैलेंस अलर्ट"
+
+msgid "Daily Balance Alert"
+msgstr "दैनिक बैलेंस अलर्ट"
+
+msgid "Sync To Group"
+msgstr "सिंक टू ग्रुप"
+
+msgid "Need More credits? Click Here to purchase."
+msgstr "अधिक क्रेडिट की आवश्यकता है? खरीदने के लिए यहां क्लिक करें"
+
+msgid "We would be glad to help you. You can reach us through any of the three ways."
+msgstr "हमें आपकी मदद करने में खुशी होगी आप हमें तीन तरीकों से किसी के माध्यम से पहुंच सकते हैं"
+
+msgid "Email Support:"
+msgstr "ई - मेल समर्थन:"
+
+msgid "Phone Support:"
+msgstr "फोन समर्थन:"
+
+msgid "Order Id"
+msgstr "ऑर्डर आईडी"
+
+msgid "Order Status"
+msgstr "ऑर्डर स्थिति"
+
+msgid "Order amount"
+msgstr "ऑर्डर राशि"
+
+msgid "Store Name"
+msgstr "स्टोर नाम"
+
+msgid "Product Name"
+msgstr "उत्पाद का नाम"
+
+msgid "Product Name with Quantity"
+msgstr "मात्रा के साथ उत्पाद का नाम"
+
+msgid "Billing First Name"
+msgstr "बिलिंग पहले नाम"
+
+msgid "Billing Last Name"
+msgstr "बिलिंग अंतिम नाम"
+
+msgid "Billing Company"
+msgstr "बिलिंग कंपनी"
+
+msgid "Billing Address 1"
+msgstr "बिलिंग  पता 1"
+
+msgid "Billing Address 2"
+msgstr "बिलिंग  पता 2"
+
+msgid "Billing City"
+msgstr "बिलिंग शहर"
+
+msgid "Billing State"
+msgstr "बिलिंग राज्य"
+
+msgid "Billing Postcode"
+msgstr "बिलिंग पोस्टकोड"
+
+msgid "Billing Country"
+msgstr "बिलिंग देश"
+
+msgid "Billing Email"
+msgstr "बिलिंग ईमेल"
+
+msgid "Billing Phone"
+msgstr "बिलिंग फ़ोन"
+
+msgid "Shipping First Name"
+msgstr "शिपिंग पहले नाम"
+
+msgid "Shipping Last Name"
+msgstr "शिपिंग अंतिम नाम"
+
+msgid "Shipping Company"
+msgstr "शिपिंग कंपनी"
+
+msgid "Shipping Address 1"
+msgstr "शिपिंग पता 1"
+
+msgid "Shipping Address 2"
+msgstr "शिपिंग पता 2"
+
+msgid "Shipping City"
+msgstr "शिपिंग शहर"
+
+msgid "Shipping State"
+msgstr "शिपिंग राज्य"
+
+msgid "Shipping Postcode"
+msgstr "शिपिंग पोस्टकोड"
+
+msgid "Shipping Country"
+msgstr "शिपिंग देश"
+
+msgid "Order Currency"
+msgstr "ऑर्डर मुद्रा"
+
+msgid "Payment Method"
+msgstr "भुगतान का तरीका"
+
+msgid "Payment Method Title"
+msgstr "भुगतान विधि शीर्षक"
+
+msgid "Shipping Method"
+msgstr "शिपिंग का तरीका"
+
+msgid "Payment Mode"
+msgstr "भुगतान का प्रकार"
+
+msgid "Payment Gateway"
+msgstr "भुगतान का तरीका"
+
+msgid "Item Name"
+msgstr "वस्तु का नाम"
+
+msgid "Currency"
+msgstr "मुद्रा"
+
+msgid "OTP for Checkout"
+msgstr "चेक आउट के लिए ओटीपी"
+
+msgid "OTP for Registration"
+msgstr "पंजीकरण के लिए ओटीपी"
+
+msgid "OTP for Login"
+msgstr "लॉगइन के लिए ओटीपी"
+
+msgid "You can also define OTP length between 3-8"
+msgstr "आप ओटीपी लंबाई 3-8 के बीच भी परिभाषित कर सकते हैं"
+
+#otp messages at frontend
+msgid "A OTP (One Time Passcode) has been sent to <strong>##phone##</strong> . Please enter the OTP in the field below to verify your phone."
+msgstr "एक ओटीपी (वन टाइम पासकोड) को <strong> ## फ़ोन ## </ strong> पर भेजा गया है। अपना फ़ोन सत्यापित करने के लिए कृपया नीचे दिए गए क्षेत्र में OTP दर्ज करें। "
+
+msgid "There was an error in sending OTP. Please click on Resend OTP link to resend the OTP."
+msgstr "ओटीपी भेजने में एक त्रुटि थी। ओटीपी पुनः भेजने के लिए कृपया ओएसटीपी पुनः भेजें पर क्लिक करें।"
+
+msgid "There was an error in sending the OTP to the given Phone Number. Please Try Again or contact site Admin."
+msgstr "दिए गए फ़ोन नंबर पर ओटीपी भेजने में एक त्रुटि थी। कृपया फिर से प्रयास करें या साइट से संपर्क करें व्यवस्थापक"
+
+msgid "##phone## is not a valid phone number. Please enter a valid Phone Number"
+msgstr "##फ़ोन ## एक वैध फोन नंबर नहीं है कृपया एक मान्य फोन नंबर दर्ज करें"
+
+msgid "Please select one of the methods below to verify your account. A One time passcode will be sent to the selected method."
+msgstr "अपना खाता सत्यापित करने के लिए कृपया नीचे दिए गए तरीकों में से एक चुनें। एक बार पासकोड चयनित विधि को भेज दिया जाएगा।"
+
+msgid "Validate OTP"
+msgstr "ओटीपी मान्य करें"
+
+msgid "Resend"
+msgstr "पुन: भेजें"
+
+msgid "Verify Code :"
+msgstr "कोड सत्यापित करें"
+
+msgid "Enter Verification Code"
+msgstr "सत्यापन कोड दर्ज करें"
+
+msgid "Please Enter a Phone Number to enable this link"
+msgstr "कृपया इस लिंक को सक्षम करने के लिए एक फ़ोन नंबर दर्ज करें"
+
+msgid "Please Enter a Phone Number to enable this."
+msgstr "यह सक्षम करने के लिए कृपया एक फ़ोन नंबर दर्ज करें।"
+
+msgid "Only digits within range 4-8 are allowed."
+msgstr "4-8 के भीतर केवल अंकों की अनुमति दी जाती है"
+
+msgid "&larr; Go Back"
+msgstr "वापस जाओ"
+
+msgid "Enter a number in the following format : 9xxxxxxxxx"
+msgstr "निम्न प्रारूप में एक संख्या दर्ज करें: 9xxxxxxxxx"
+
+msgid "Send OTP"
+msgstr "ओटीपी भेजें"
+
+msgid "Phone"
+msgstr "फ़ोन"
+
+msgid "Please enter your mobile number"
+msgstr "कृपया अपना मोबाइल नंबर दर्ज करें"
+
